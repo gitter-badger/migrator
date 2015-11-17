@@ -1,0 +1,10 @@
+[package]
+name = "migrator"
+version = "0.1.0"
+authors = ["zerosign <r1nlx0@gmail.com>"]
+
+[dependencies]
+bson = "*"
+mongodb = "*"
+rust-sqlite = "*"
+toml = "*"
